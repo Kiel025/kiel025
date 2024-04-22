@@ -1,4 +1,4 @@
-### Opa! Eu sou Ezequiel, desenvolvedor backend Java!
+### Opa! Eu sou Ezequiel, desenvolvedor backend!
 
 Seja muito bem vindo! 😄
 
